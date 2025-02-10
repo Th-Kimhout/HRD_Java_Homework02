@@ -1,5 +1,4 @@
-# HRD_Java_Homework02
-# Online Bank Management System
+# HRD_Java_Homework02 Online Bank Management System
 
 ## Overview
 
